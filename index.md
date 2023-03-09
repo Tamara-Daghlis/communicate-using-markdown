@@ -16,3 +16,10 @@ var obj = {
 };
 obj.foo(); 
 ```
+The normal functions have these rules for this to apply [the checked items]:
+- [x] Default binding  
+- [x] Implicit binding
+- [x] Explicit binding
+- [x] This item is complete
+- [ ]  lexical scope
+
