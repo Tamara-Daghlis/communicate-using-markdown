@@ -20,6 +20,6 @@ The normal functions have these rules for this to apply [the checked items]:
 - [x] Default binding  
 - [x] Implicit binding
 - [x] Explicit binding
-- [x] This item is complete
+- [x] new binding 
 - [ ]  lexical scope
 
